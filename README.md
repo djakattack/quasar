@@ -33,3 +33,6 @@ For the sake of clarity, the payouts for a low stakes game of quasar would be th
 - 19:   35
 - 20:   40
 - 21+:  0
+
+## Process
+This project will be completed using basic HTML, CSS, and JavaScript.
